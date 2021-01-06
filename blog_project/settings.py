@@ -25,7 +25,7 @@ SECRET_KEY = 'wm^avpp(jb79ql@k145r5s1y^zowpxssg5ye0^7w8vlko&vbq)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
